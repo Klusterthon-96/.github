@@ -11,10 +11,10 @@ Agro Assistant is designed to assist farmers by leveraging artificial intelligen
 ### 1. [Victor Imah](https://github.com/Victorimah)
    - **Role:** Team Lead / Machine Learning Engineer
 
-### 2. Rasheed Williams](https://github.com/rashw7)
+### 2. [Rasheed Williams](https://github.com/rashw7)
    - **Role:** Project Manager
 
-### 3. [Abdulhamid Abdulquadri]
+### 3. [Abdulhamid Abdulquadri](mailto:abdulquadri.ux@gmail.com)
    - **Role:** Product Designer
 
 ### 4. [Joshua Ejembi](https://github.com/106joshman)
