@@ -28,7 +28,7 @@ Agro Assistant is designed to assist farmers by leveraging artificial intelligen
 
 ## Live Website
 
-Check out our live website at [AgroAssistant.com](https://boisterous-torrone-af8c2e.netlify.app/) to experience the power of AI in agriculture.
+Check out our live website at [AgroAssistant.com](https://agro-assistant.netlify.app/) to experience the power of AI in agriculture.
 
 
 Feel free to explore our codebase, contribute, or raise issues if you have any suggestions or feedback!
