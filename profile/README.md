@@ -40,7 +40,7 @@ https://github.com/Klusterthon-96/.github/assets/54216428/4ec57556-9f74-414a-91e
 
 ## Live Website
 
-Check out our live website at [AgroAssistant.com](https://agro-assistant.netlify.app/) to experience the power of AI in agriculture.
+Check out our live website at [agro-assistant.netlify.app](https://agro-assistant.netlify.app/) to experience the power of AI in agriculture.
 
 Feel free to explore our codebase, contribute, or raise issues if you have any suggestions or feedback!
 
